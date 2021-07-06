@@ -1,0 +1,23 @@
+// Before module bundler -> commonjs, AMD, UMD
+// ES6 to ES5 compiler: Bable, buble == createor of rollup
+// module bundler: browserfy, laravel-elixer, webpack, gulp, rollup, 
+
+//  rollup install, 
+npm install rollup
+
+// configure rollup
+rollup.config.js
+
+//compile rollup
+rollup -c
+
+// npm init -y
+
+// node_modules\.bin\webpack
+
+// jsbin.com
+
+// to see the valid version of webpack
+// npm install webpack@2.1
+
+// --save-dev => save it in dev dependecy
